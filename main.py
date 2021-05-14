@@ -2,12 +2,13 @@ import sys
 import xml.etree.ElementTree as ET
 import json
 
-#verify the file
+filename = ""
+#verify and read the file
 try:
     filename = sys.argv[1]
     tree = ET.parse(filename)
 except IndexError:
-    print("ERROR : Filename not found. Please pass a filename to the program")
+    print("ERROR: Filename not found. Please pass a filename to the program")
 except FileNotFoundError:
     print("FileNotFoundError: No such file: '" + filename + "'")
 except:
@@ -67,7 +68,7 @@ def mapOne(tree) :
                 SeatNum = summary.attrib['SeatNumber'].lower()
                 output[RowNum]['seats'][SeatNum] = seatdata
 
-    print(json.dumps(output))
+    return json.dumps(output)
 
 
 #function for second xml file
@@ -153,12 +154,15 @@ def mapTwo(tree) :
     for x in rows :
         sorted_output[str(x)] = output[str(x)]
 
-    print(json.dumps(sorted_output['7']))
+    return json.dumps(sorted_output)
 
 #check which xml file it is and call the appropriate function
 if filename[-5] == "1" :
-    mapOne(tree)
+    out = mapOne(tree)
 else :
-    mapTwo(tree)
+    out = mapTwo(tree)
 
-
+f = open(filename[:-4] + "_parsed.json", "w")
+f.write(out)
+print("written to file : " +  filename[:-4] + "_parsed.json")
+f.close()
