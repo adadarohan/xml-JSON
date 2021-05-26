@@ -68,7 +68,7 @@ def mapOne(tree) :
                 SeatNum = summary.attrib['SeatNumber'].lower()
                 output[RowNum]['seats'][SeatNum] = seatdata
 
-    return json.dumps(output)
+    return json.dumps(output, indent = 3)
 
 
 #function for second xml file
@@ -154,7 +154,7 @@ def mapTwo(tree) :
     for x in rows :
         sorted_output[str(x)] = output[str(x)]
 
-    return json.dumps(sorted_output)
+    return json.dumps(sorted_output, indent = 3)
 
 #check which xml file it is and call the appropriate function
 if filename[-5] == "1" :

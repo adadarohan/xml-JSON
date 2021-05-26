@@ -1,0 +1,1854 @@
+{
+   "7": {
+      "layout": "abcdef",
+      "seats": {
+         "7a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "seat_in_a_quiet_zone",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "7b": {
+            "details": [
+               "seat_in_a_quiet_zone"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "7c": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "7d": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "7e": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "7f": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         }
+      }
+   },
+   "8": {
+      "layout": "abcdef",
+      "seats": {
+         "8a": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "8b": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "8c": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "8d": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "8e": {
+            "details": [
+               "seat_in_a_quiet_zone"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "8f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "seat_in_a_quiet_zone",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         }
+      }
+   },
+   "9": {
+      "layout": "abcdef",
+      "seats": {
+         "9a": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "window",
+               "seat_not_allowed_for_infant",
+               "seat_with_facilities_for_handicapped",
+               "seat_with_facilities_for_handicapped_incapacitated_passenger"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "9b": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "9c": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "9d": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "9e": {
+            "details": [
+               "seat_in_a_quiet_zone"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "9f": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "window",
+               "seat_with_facilities_for_handicapped",
+               "seat_with_facilities_for_handicapped_incapacitated_passenger"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         }
+      }
+   },
+   "10": {
+      "layout": "abcdef",
+      "seats": {
+         "10a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "seat_in_a_quiet_zone",
+               "window",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "10b": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "10c": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "10d": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "10e": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         },
+         "10f": {
+            "details": [
+               "seat_in_a_quiet_zone",
+               "window",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 22.1
+            }
+         }
+      }
+   },
+   "11": {
+      "layout": "abcdef",
+      "seats": {
+         "11a": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "11b": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "11c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "11d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "11e": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "11f": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "12": {
+      "layout": "abcdef",
+      "seats": {
+         "12a": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "12b": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "12c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "12d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "12e": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "12f": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         }
+      }
+   },
+   "13": {
+      "layout": "abcdef",
+      "seats": {
+         "13a": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "13b": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "13c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "13d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "13e": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         },
+         "13f": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "seat_not_allowed_for_medical",
+               "exit",
+               "leg_space_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 35.4
+            }
+         }
+      }
+   },
+   "14": {
+      "layout": "abcdef",
+      "seats": {
+         "14a": {
+            "details": [
+               "window",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "14b": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "14c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "14d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "14e": {
+            "details": [
+               "seat_not_suitable_for_child",
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "14f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "seat_not_suitable_for_child",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "15": {
+      "layout": "abcdef",
+      "seats": {
+         "15a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "15b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "15c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "15d": {
+            "details": [
+               "aisle_seat",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "15e": {
+            "details": [
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "15f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "16": {
+      "layout": "abcdef",
+      "seats": {
+         "16a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "16b": {
+            "details": [
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "16c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "16d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "16e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "16f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "17": {
+      "layout": "abcdef",
+      "seats": {
+         "17a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "17b": {
+            "details": [
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "17c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "17d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "17e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "17f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "18": {
+      "layout": "abcdef",
+      "seats": {
+         "18a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "18b": {
+            "details": [
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "18c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "18d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "18e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "wing",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "18f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "wing"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "19": {
+      "layout": "abcdef",
+      "seats": {
+         "19a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "19b": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "19c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "19d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "19e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "19f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "20": {
+      "layout": "abcdef",
+      "seats": {
+         "20a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "20b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "20c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "20d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "20e": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "20f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "21": {
+      "layout": "abcdef",
+      "seats": {
+         "21a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "occupied"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat",
+               "occupied"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "21d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "21e": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "21f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "22": {
+      "layout": "abcdef",
+      "seats": {
+         "22a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "22b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "22c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "22d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "22e": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "22f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "23": {
+      "layout": "abcdef",
+      "seats": {
+         "23a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "23b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "23c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "23d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "23e": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "23f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "24": {
+      "layout": "abcdef",
+      "seats": {
+         "24a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "24b": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "24c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "24d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "24e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "24f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "25": {
+      "layout": "abcdef",
+      "seats": {
+         "25a": {
+            "details": [
+               "window",
+               "seat_with_facilities_for_handicapped",
+               "seat_with_facilities_for_handicapped_incapacitated_passenger"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "25b": {
+            "details": [
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "25c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "25d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "25e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "preferential_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         },
+         "25f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "seat_with_facilities_for_handicapped",
+               "seat_with_facilities_for_handicapped_incapacitated_passenger"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 17.7
+            }
+         }
+      }
+   },
+   "26": {
+      "layout": "abcdef",
+      "seats": {
+         "26a": {
+            "details": [
+               "window",
+               "restricted_seat_general",
+               "restricted",
+               "seat_suitable_for_unaccompanied_minors"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "26b": {
+            "details": [
+               "restricted_seat_general",
+               "restricted",
+               "preferential_seat",
+               "seat_suitable_for_unaccompanied_minors"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "26c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "restricted_seat_general",
+               "restricted",
+               "seat_suitable_for_unaccompanied_minors"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "26d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_seat_general",
+               "restricted",
+               "seat_suitable_for_unaccompanied_minors"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "26e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "restricted_seat_general",
+               "restricted",
+               "preferential_seat",
+               "seat_suitable_for_unaccompanied_minors"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "26f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "restricted_seat_general",
+               "restricted",
+               "seat_suitable_for_unaccompanied_minors"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "27": {
+      "layout": "abcdef",
+      "seats": {
+         "27a": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "27b": {
+            "details": [
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "27c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "27d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "27e": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "27f": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         }
+      }
+   },
+   "28": {
+      "layout": "abcdef",
+      "seats": {
+         "28a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "28b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "28c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "28d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "28e": {
+            "details": [
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "28f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         }
+      }
+   },
+   "29": {
+      "layout": "abcdef",
+      "seats": {
+         "29a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "29b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "29c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "29d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "29e": {
+            "details": [
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         },
+         "29f": {
+            "details": [
+               "seat_suitable_for_adult_with_an_infant",
+               "window",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "gbp",
+               "total": 11.5
+            }
+         }
+      }
+   },
+   "30": {
+      "layout": "abcdef",
+      "seats": {
+         "30a": {
+            "details": [
+               "window",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "30b": {
+            "details": [
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "30c": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "seat_not_allowed_for_infant",
+               "restricted_recline_seat",
+               "seat_to_be_left_vacant_or_offered_last",
+               "restricted_seat_general",
+               "restricted",
+               "rear_facing_seat"
+            ],
+            "available": "true",
+            "seatPrice": "null"
+         },
+         "30d": {
+            "details": [
+               "aisle_seat",
+               "seat_not_suitable_for_child",
+               "restricted_recline_seat",
+               "occupied",
+               "rear_facing_seat",
+               "crew_seat"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "30e": {
+            "details": [
+               "restricted_recline_seat",
+               "occupied",
+               "rear_facing_seat",
+               "crew_seat"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "30f": {
+            "details": [
+               "window",
+               "restricted_recline_seat",
+               "occupied",
+               "rear_facing_seat",
+               "crew_seat"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   }
+}

@@ -1,0 +1,2048 @@
+{
+   "1": {
+      "cabin": "first",
+      "layout": "ab ef",
+      "seats": {
+         "1a": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "1b": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "1e": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "1f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "2": {
+      "cabin": "first",
+      "layout": "ab ef",
+      "seats": {
+         "2a": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "2b": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "2e": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "2f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "7": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "7a": {
+            "details": [
+               "lavatory"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "7b": {
+            "details": [
+               "lavatory"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "7c": {
+            "details": [
+               "lavatory"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "7d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "7e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "7f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "8": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "8a": {
+            "details": [
+               "limited recline",
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "8b": {
+            "details": [
+               "limited recline",
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "8c": {
+            "details": [
+               "limited recline",
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "8d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "8e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "8f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "9": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "9a": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "9b": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "9c": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "9d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "9e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "9f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "10": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "10a": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "10b": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "10c": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "10d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "10e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "10f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "11": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "11a": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "11b": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "11c": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "11d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "11e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "11f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "12": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "12a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "12b": {
+            "details": [
+               "preferred",
+               "center",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "12c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "12d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "12e": {
+            "details": [
+               "preferred",
+               "center",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "12f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "14": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "14a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "14b": {
+            "details": [
+               "preferred",
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2600.0,
+               "tax": 0.0,
+               "total": 2600.0
+            }
+         },
+         "14c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "14d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "14e": {
+            "details": [
+               "preferred",
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2600.0,
+               "tax": 0.0,
+               "total": 2600.0
+            }
+         },
+         "14f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "15": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "15a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "15b": {
+            "details": [
+               "preferred",
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2600.0,
+               "tax": 0.0,
+               "total": 2600.0
+            }
+         },
+         "15c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "15d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "15e": {
+            "details": [
+               "preferred",
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2600.0,
+               "tax": 0.0,
+               "total": 2600.0
+            }
+         },
+         "15f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "20": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "20a": {
+            "details": [
+               "limited recline",
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "20b": {
+            "details": [
+               "limited recline",
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "20c": {
+            "details": [
+               "limited recline",
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "20d": {
+            "details": [
+               "limited recline",
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "20e": {
+            "details": [
+               "limited recline",
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "20f": {
+            "details": [
+               "limited recline",
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "21": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "21a": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21b": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21c": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "21f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   },
+   "22": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "22a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "22b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "22c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "22d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "22e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "22f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "23": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "23a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "23b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "23c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "23d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "23e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "23f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "24": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "24a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "24b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "24c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "24d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "24e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "24f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "25": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "25a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "25b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "25c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "25d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "25e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "25f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "26": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "26a": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         },
+         "26b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "26c": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "26d": {
+            "details": [
+               "preferred",
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 4200.0,
+               "tax": 0.0,
+               "total": 4200.0
+            }
+         },
+         "26e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "26f": {
+            "details": [
+               "preferred",
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 2700.0,
+               "tax": 0.0,
+               "total": 2700.0
+            }
+         }
+      }
+   },
+   "27": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "27a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "27b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "27c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "27d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "27e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "27f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "28": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "28a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "28b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "28c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "28d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "28e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "28f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "29": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "29a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "29b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "29c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "29d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "29e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "29f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "30": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "30a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "30b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "30c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "30d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "30e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "30f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "31": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "31a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "31b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "31c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "31d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "31e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "31f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "32": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "32a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "32b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "32c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "32d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "32e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "32f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "34": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "34a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "34b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "34c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "34d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "34e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "34f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "35": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "35a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "35b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "35c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "35d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "35e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "35f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "36": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "36a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "36b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "36c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "36d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "36e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "36f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "37": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "37a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "37b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "37c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "37d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "37e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "37f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "38": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "38a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         },
+         "38b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "38c": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "38d": {
+            "details": [
+               "aisle",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1800.0,
+               "tax": 0.0,
+               "total": 1800.0
+            }
+         },
+         "38e": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "38f": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1300.0,
+               "tax": 0.0,
+               "total": 1300.0
+            }
+         }
+      }
+   },
+   "39": {
+      "cabin": "economy",
+      "layout": "abc def",
+      "seats": {
+         "39a": {
+            "details": [
+               "window",
+               "chargeable"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "39b": {
+            "details": [
+               "center",
+               "chargeable"
+            ],
+            "available": "true",
+            "seatPrice": {
+               "currencyCode": "usd",
+               "fee": 1200.0,
+               "tax": 0.0,
+               "total": 1200.0
+            }
+         },
+         "39c": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "39d": {
+            "details": [
+               "aisle"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "39e": {
+            "details": [
+               "center"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         },
+         "39f": {
+            "details": [
+               "window"
+            ],
+            "available": "false",
+            "seatPrice": "null"
+         }
+      }
+   }
+}
