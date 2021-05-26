@@ -1,6 +1,6 @@
 # XML to JSON
 
-XML to JSON converts the given seatmaps into json files with the same format. It differentiates between the 2 files using the filename and coverts the following properties - 
+XML to JSON converts the given seatmaps into json files with the same format. It differentiates between the 2 files using the filename and converts the following properties - 
 - Seat type (Center, Window, Aisle, Bathroom etc.)
 - Details (Limited recline, Quiet zone etc.)
 - Seat number
